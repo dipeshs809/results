@@ -2,4 +2,4 @@ qdiscTypeId ns3::FifoQueueDisc
 stream  1
 segmentSize 1500
 delAckCount 1
-stopTime +10s
+stopTime +200s
