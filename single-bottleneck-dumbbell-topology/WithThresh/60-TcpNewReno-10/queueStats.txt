@@ -1,0 +1,12 @@
+
+Stat for Queue 1
+Packets/Bytes received: 398190 / 312920900
+Packets/Bytes enqueued: 392293 / 309234780
+Packets/Bytes dequeued: 392293 / 309234780
+Packets/Bytes requeued: 0 / 0
+Packets/Bytes dropped: 5897 / 3686120
+Packets/Bytes dropped before enqueue: 5897 / 3686120
+  Queue disc limit exceeded: 5897 / 3686120
+Packets/Bytes dropped after dequeue: 0 / 0
+Packets/Bytes sent: 392293 / 309234780
+Packets/Bytes marked: 0 / 0
